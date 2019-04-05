@@ -3,7 +3,7 @@
 
 * [Helpers.cs](./CS/Helpers.cs) (VB: [Helpers.vb](./VB/Helpers.vb))
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 <!-- default file list end -->
 # End-User Restrictions - How to define "availability" intervals for different resources
 
